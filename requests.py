@@ -12,3 +12,6 @@ def get_status(url):
 
 if __name__ =='__main__':
     get_status('http://python')
+
+#
+
